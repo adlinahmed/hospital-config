@@ -1,0 +1,1 @@
+INSERT INTO equipment_location (id, description, location) values (1, wheelchair, closet);
